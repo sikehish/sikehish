@@ -4,7 +4,6 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Hisham</h1></summary>
-    <h4>Dev Intern at MEGA</h4>
   </ul>
 </div>
 
@@ -19,6 +18,8 @@
 
 <!--Intro start-->
 - 🔭 I’m currently working on **AWS, Rust, Docker**
+  
+- 👨‍💻 Dev Intern at MEGA
 
 - 🌱 I aspire **to build robust software that impacts the world! :p**
 
