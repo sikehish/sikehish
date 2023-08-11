@@ -1,5 +1,4 @@
-<!--horizontal divider(gradiant)-->
-<hr/>
+
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -8,6 +7,7 @@
   </ul>
 </div>
 
+<hr/>
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
