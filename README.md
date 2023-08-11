@@ -17,9 +17,10 @@
 
 
 <!--Intro start-->
+- 👨‍💻 Dev Intern at MEGA
+
 - 🔭 I’m currently working on **AWS, Rust, Docker**
   
-- 👨‍💻 Dev Intern at MEGA
 
 - 🌱 I aspire **to build robust software that impacts the world! :p**
 
