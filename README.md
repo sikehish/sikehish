@@ -11,16 +11,13 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">2nd year CS student and a passionate software dev!</h2></summary>
+    <summary><h2 style="display: inline-block">3rd year CS student and a passionate software dev!</h2></summary>
   </ul>
 </div>
 
 
 <!--Intro start-->
-- 👨‍💻 Dev Intern at MEGA
-
-- 🔭 I’m currently working on **Cloud, Kubernetes**
-  
+- 🔭 I’m currently working on **Cloud, Terraform and Kubernetes**
 
 - 🌱 I aspire **to build robust software that impacts the world! :p**
 
