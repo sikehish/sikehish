@@ -75,6 +75,8 @@
 </p>
 
 
+[![An image of @sikehish's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sikehish)](https://holopin.io/@sikehish)
+
 <!-- Connect with me -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
@@ -83,7 +85,6 @@
   </ul>
 </div>
 
-[![An image of @sikehish's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sikehish)](https://holopin.io/@sikehish)
 
 <!--icons and links-->
 <p align="center">
