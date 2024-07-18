@@ -70,7 +70,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,cpp,css,docker,kubernetes,golang,express,firebase,github,html,java,js,ts,mongodb,mysql,nodejs,postman,py,flask,react,tailwind,aws,bash,githubactions,nginx,vite,vercel,netlify&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,c,cpp,css,docker,kubernetes,golang,express,firebase,github,html,java,js,ts,mongodb,mysql,nodejs,py,flask,react,tailwind,aws,githubactions,terraform&perline=14" />
   </a>
 </p>
 
