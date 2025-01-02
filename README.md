@@ -17,7 +17,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Cloud, Terraform and Kubernetes**
+- 🔭 I’m currently learning **Spring Boot**
 
 - 🌱 I aspire **to build robust software that impacts the world! :p**
 
